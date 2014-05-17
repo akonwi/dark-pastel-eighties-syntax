@@ -1,0 +1,11 @@
+{
+  "name": "dark-pastel-eighties-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "eighties friendly pastel theme for atom",
+  "repository": "https://github.com/akonwi/base16-eighties-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
